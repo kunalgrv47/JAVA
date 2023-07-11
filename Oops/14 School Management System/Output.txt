@@ -1,0 +1,16 @@
+=========SCHOOL DETAILS==========
+Number of Students:	4
+Number of Teachers:	3
+Number of classes:	3
+
+==========CLASS INFORMATION==========
+Sl.No	Class_Name	Teachers_Name	No of Students
+1	Maths		Ram		4
+2	Physics		Shyam		2
+3	Chem		Mohan		4
+
+=========SCHOOL DETAILS AFTER REMOVING 1 STUDENT, 1 TEACHER and 1 CLASS==========
+Number of Students:	3
+Number of Teachers:	2
+Number of classes:	2
+
