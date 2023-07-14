@@ -1,0 +1,17 @@
+======SHOWING ALL THE SONGS IN LIBRARY=======
+Sl.No	TITLE			ARTIST
+1	Jhalak dikhlaja		Himesh Reshamiya
+2	Kesariya		Arijit singh
+3	Maan meri jaan		King
+4	Kal hona ho		Sonu Nigam
+
+======PLAYING RANDOM SONGS======
+Now Playing: Kesariya by Arijit singh
+Now Playing: Kesariya by Arijit singh
+Now Playing: Kal hona ho by Sonu Nigam
+Now Playing: Jhalak dikhlaja by Himesh Reshamiya
+Now Playing: Kal hona ho by Sonu Nigam
+Now Playing: Kal hona ho by Sonu Nigam
+Now Playing: Maan meri jaan by King
+Now Playing: Maan meri jaan by King
+Now Playing: Jhalak dikhlaja by Himesh Reshamiya
