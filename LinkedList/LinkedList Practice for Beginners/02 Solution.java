@@ -39,7 +39,7 @@ public class LinkedListPractice {
 		list2.sort(Comparator.reverseOrder());
 
 		//PRINT LIST 1 and LIST 2 AFTER SORTING
-		System.out.println("\nLIST 1 DATA AFTER SORING IN ASCENDING ORDER :  "+ list1);
+		System.out.println("\nLIST 1 DATA AFTER SORTING IN ASCENDING ORDER :  "+ list1);
 		System.out.println("LIST 2 DATA AFTER SORTING IN DESCENDING ORDER: "+list2);
 
 
