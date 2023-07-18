@@ -3,7 +3,7 @@ LIST 2 DATA : [10, 20, 40, 80, 60]
 
 BOTH LIST ARE EQUAL: true
 
-LIST 1 DATA AFTER SORING IN ASCENDING ORDER :  [10, 20, 40, 80, 60]
+LIST 1 DATA AFTER SORTING IN ASCENDING ORDER : [10, 20, 40, 80, 60]
 LIST 2 DATA AFTER SORTING IN DESCENDING ORDER: [80, 60, 40, 20, 10]
 
 Added 100 at the start of list 1 and 100 at the 1st index of list 2. Then removed 2nd last element of both list
