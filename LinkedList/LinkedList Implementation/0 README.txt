@@ -20,6 +20,11 @@
 		add(Object data)
 		add(int index, Object data)
 		set(int index, object data)
+		removeFirst()
+		removeLast()
+		searchElement()
+		searchUsingRecursion()
+		
 
 3. MyLinkedListUse Class:
     -This class is to demonstrate the use of MyLinkedListClass
