@@ -24,6 +24,10 @@
 		removeLast()
 		searchElement()
 		searchUsingRecursion()
+		reverseListRecursion()
+		deleteNthFromEnd()
+		findMid()
+		checkPalindrome()
 		
 
 3. MyLinkedListUse Class:
