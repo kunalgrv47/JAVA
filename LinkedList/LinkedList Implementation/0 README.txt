@@ -1,4 +1,4 @@
->> In this LinkedList Implementation, I have created 3 classes
+# In this LinkedList Implementation, I have created 3 classes
 	1. Node
 	2. MyLinkedList
 	3. MyLinkedListUse
@@ -28,6 +28,10 @@
 		deleteNthFromEnd()
 		findMid()
 		checkPalindrome()
+		isCyclePresent()
+		removeCycle()
+		mergeSortedList()
+		mergeSort()
 		
 
 3. MyLinkedListUse Class:
