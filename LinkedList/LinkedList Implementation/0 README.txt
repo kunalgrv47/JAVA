@@ -32,6 +32,8 @@
 		removeCycle()
 		mergeSortedList()
 		mergeSort()
+		evenAfterOdd()
+		deleteNAfterN()
 		
 
 3. MyLinkedListUse Class:
